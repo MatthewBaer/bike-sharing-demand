@@ -1,0 +1,3 @@
+In order to run this program, you need Scikit-learn 0.17, not the current version 0.18. The data set is ripped from Kaggle at https://www.kaggle.com/c/bike-sharing-demand
+
+The kNN regressors are implemented in KNN ipython notebook while the experiments are run in BikeExperiments.py.
